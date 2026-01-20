@@ -71,7 +71,8 @@ function Project() {
                     </small>
                     <br></br><br></br>Reenacted facial expressions of participants wearing VR headset to virtual characters.
                    Developed a VR facial expression tracking domain adaptation model with designed backpropagation steps and 
-                   conducted subjective study evaluation. 
+                   conducted subjective study evaluation. Synthetic data generated based on Unity. 
+                   Data organization based on AWS S3 bucket and pandas.
                    
                 </p>
             </div>
@@ -87,7 +88,7 @@ function Project() {
                     <br></br><br></br>
                     To cluster predicted facial expressions from participants wearing VR headset, 
                     take advatage of local linear embeddings to benefit facial expression classification. 
-                    Evaluated predicted expressions with subjective study across human identities.
+                    Evaluated predicted expressions with subjective study across human identities. Deployed the model with ONNX.
                 
                 </p>
             </div>
